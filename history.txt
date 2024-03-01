@@ -1,0 +1,150 @@
+726  clear
+
+  727  mkdir Control_Work
+
+  728  cat > Pets
+
+  729  ls
+
+  730  cd Control_Work/
+
+  731  ls
+
+  732  cat > Pets
+
+  733  ls
+
+  734  tail Pets 
+
+  735  cat > Pack-animals
+
+  736  ls
+
+  737  cat Pets >> Pack-animals
+
+  738  mv Pack-animals HumanFriends
+
+  739  tail HumanFriends 
+
+  740  man mkdir 
+
+  741  man mv
+
+  742  mv HumanFriends -t newdir
+
+  743  ls
+
+  744  mkdir newdir
+
+  745  mv HumanFriends newdir/
+
+  746  tree
+
+  747  sudo nano /etc/apt/sources.list
+
+  748  sudo apt update
+
+  749  sudo nano /etc/apt/sources.list
+
+  750  sudo apt update
+
+  751  sudo nano /etc/apt/sources.list
+
+  752  sudo apt update
+
+  753  sudo nano /etc/apt/sources.list
+
+  754  sudo apt update
+
+  755  sudo nano /etc/apt/sources.list
+
+  756  sudo apt update
+
+  757  sudo nano /etc/apt/sources.list
+
+  758  sudo apt update
+
+  759  sudo nano /etc/apt/sources.list
+
+  760  sudo apt update
+
+  761  man apt-secure 
+
+  762  sudo nano /etc/apt/sources.list
+
+  763  man apt-secure 
+
+  764  sudo apt update
+
+  765  sudo nano /etc/apt/sources.list
+
+  766  sudo apt install mysql-server
+
+  767  mysql
+
+  768  sudo mysql
+
+  769  sudo ufw allow from localhost to any port 22
+
+  770  hastnaame -A
+
+  771  hastname -A
+
+  772  hostname -A
+
+  773  hostname -i
+
+  774  hostname -I
+
+  775  sudo ufw allow from 192.168.0.33 to any port 22
+
+  776  sudo ufw allow from 172.17.0.1 to any port 22
+
+  777  mysql -u johny_west -p
+
+  778  sudo mysql -u johny_west -p
+
+  779  sudo mysql -u johnywest -p
+
+  780  mysql SHOW
+
+  781  sudo mysql-workbench-community &
+
+  782  sudo mysql-workbench-community &&
+
+  783  sudo mysql-workbench-community
+
+  784  mysql-workbench-community
+
+  785  sudo mysql -u root -p
+
+  786  sudo mysql-workbench-community
+
+  787  sudo mysql -u root -p
+
+  788  sudo mysql-workbench-community
+
+  789  mysql-workbench-community 
+
+  790  sudo mysql -u root -p
+
+  791  sudo mysql -u root -p
+
+  792  sudo mysql
+
+  793  sudo mysql -u root -p
+
+  794  exit
+
+  795  sudo apt download neofetch 
+
+  796  sudo dpkg -i neofetch_7.1.0-3_all.deb 
+
+  797  neofetch 
+
+  798  sudo dpkg -l neofetch 
+
+  799  sudo dpkg -r neofetch 
+
+  800  history
+
