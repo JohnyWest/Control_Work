@@ -46,11 +46,23 @@
 
 `$ mv Pack-animals HumanFriends`
 
-## Работа с директориями в Linux
+# 2. Работа с директориями в Linux
 * Создать директорию, переместить файл туда.
 
 `$ mkdir newdir`
 
 `$ mv HumanFriends newdir/`
 
-# 2. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
+# 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
+
+Т.к. репозитории уже включены:
+
+`$ sudo apt-get install mysql-server`
+
+`$ sudo apt download neofetch`
+
+`$ sudo dpkg -i neofetch_7.1.0-3_all.deb`
+
+`$ sudo dpkg -l neofetch`
+
+`$ sudo dpkg -r neofetch`
