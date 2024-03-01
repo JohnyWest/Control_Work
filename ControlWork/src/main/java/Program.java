@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.Scanner;
 public class Program {
 
     public static void main(String[] args) {
@@ -17,6 +17,12 @@ public class Program {
             switch (choose) {
                 case 1:
                     // Логика для заведения нового животного
+                    System.out.println("Выберите тип животного (Собака кошка хомяк)");
+                    String animalType = scanner.next();
+                    System.out.println("Введите кличку животного:");
+                    String name = scanner.next();
+                    System.out.println("Введите возраст животного:");
+                    int age = scanner.nextInt();
                     break;
                 case 2:
                     // Логика для определения животного в правильный класс
